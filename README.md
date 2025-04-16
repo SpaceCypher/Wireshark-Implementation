@@ -51,8 +51,8 @@ packet_sniffer/
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/wireshark-lite.git
-cd wireshark-lite
+git clone https://github.com/SpaceCypher/Wireshark-Implementation.git
+cd Wireshark-Implementation
 ```
 
 2. Install the required dependencies from the `requirements.txt` file.
